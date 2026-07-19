@@ -6,7 +6,7 @@ Skills:
 - SQL
 - Excel
 - Data Analysis
-Current learning
+Current learning:
 - Data Analytics
 - Python
 - SQL
