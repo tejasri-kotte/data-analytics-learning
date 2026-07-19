@@ -13,7 +13,8 @@ Current learning:
 - Python
 - SQL
 - Excel
-This repository contains my learning journey and analytics projects.
+
+ This repository contains my learning journey and analytics projects.
 
 
 
