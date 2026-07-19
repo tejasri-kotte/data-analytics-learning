@@ -2,7 +2,7 @@
 B.Tech Artificial Intelliegence and Data Science Student
 Aspiring Data Analyst
 
-Skills:
+ Skills:
 - Python
 - SQL
 - Excel
