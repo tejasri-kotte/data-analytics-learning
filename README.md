@@ -1,6 +1,7 @@
 # Hi, I'm Tejasri Kotte
 B.Tech Artificial Intelliegence and Data Science Student
 Aspiring Data Analyst
+
 Skills:
 - Python
 - SQL
